@@ -1,2 +1,2 @@
-# elead-
+# eleadproject
 いろんなソフトなどを作るよ
